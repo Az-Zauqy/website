@@ -1,0 +1,29 @@
+/*
+PRAKTEK 2 - VARIABLE
+MUHAMMAD AZ-ZAUQY FARADEYA, 14 OKTOBER 2021
+*/
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   //KAMUS
+   int umur = 18;//angka bulat
+   float ipk; //angka pecahan
+   ipk = 4.9;
+   char HurufPertamaNama = 'M'; //1 huruf boleh kapital atau kecil
+   string nama = "Muhammad Az-Zauqy Faradeya"; //+1 huruf
+
+   //ALGORITMA
+    cout << "hi! nama saya " << nama << " dengan inisial " << HurufPertamaNama << endl;
+    cout << ", Alhamdulillah IPK ku " << ipk << " diumurku yang " << umur << " tahun"<<endl;
+    return 0;
+
+    //Algoritma
+    a = 9;
+    t = 5;
+    L = (a*t)/2;
+    cout << L << endl;
+    cout << "Luas Segitiga"
+}
